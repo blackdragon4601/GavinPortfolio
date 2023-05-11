@@ -1,0 +1,35 @@
+.color {
+    background-color: black;
+}
+.normal-input{
+    width: 30%;
+}
+
+ul{
+    list-style-type: none;
+
+}
+ul li{
+    position: relative;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.main-body{
+    height: 400px;
+}
+
+.banner{
+    background-color: bisque;
+    height: 500px;
+    width: 100%;
+}
+
+.pastel{
+    background-color: brown;
+}
+
+.cta{
+    position: relative;
+    height: 500px;
+}

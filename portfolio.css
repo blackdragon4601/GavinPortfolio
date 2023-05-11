@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Tangerine");
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+}
+
+.primarybar{
+    background-color: slategray;
+}
+.custom-secondary{
+    background-color: slateblue;
+}
